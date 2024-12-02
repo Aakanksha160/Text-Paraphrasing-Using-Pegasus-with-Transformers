@@ -34,7 +34,7 @@ To use the pretrained Pegasus model for paraphrasing, you need to download the m
 - The quality of paraphrases can be adjusted by tuning the num_beams (beam search) and num_return_sequences (number of paraphrases).
 - Adjusting the temperature parameter controls the randomness of the generated paraphrases, where a higher value results in more diverse outputs.
 
-  ![Screenshot 2024-12-02 155323](https://github.com/user-attachments/assets/4f0096c9-f7be-40f5-8134-ac4be1f37077)
+  ![Screenshot 2024-12-02 155122](https://github.com/user-attachments/assets/f67eb681-ae85-453e-bdd9-371f63afda40)
 
   ![Screenshot 2024-12-02 155256](https://github.com/user-attachments/assets/b34931a5-8391-4d3c-a986-e7869fffbb53)
 
